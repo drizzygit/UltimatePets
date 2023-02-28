@@ -1,0 +1,23 @@
+name: UltimatePets
+version: '${project.version}'
+main: me.dr1zzy.ultimatepets.UltimatePets
+api-version: 1.8.8
+prefix: UltimatePets
+commands:
+  pets:
+    usage: /<command> <args>
+    permission: pets.menu
+  ice:
+    usage: /<command>
+  filetest:
+    usage: /<command>
+  stars:
+    usage: /<command>
+  dminion:
+    usage: /<command>
+  asd:
+    usage: /<command>
+  pet2:
+    usage: /<command>
+  model1:
+    usage: /<command>

@@ -1,0 +1,26 @@
+# # # # # # # # # # # # # # # # #
+# X---------------------------X #
+# |  beta -UltimatePets- beta | #
+# X---------------------------X #
+# # # # # # # # # # # # # # # # #
+
+config:
+  menus:
+    main-menu:
+      title: "Pets menu"
+      title-color: "b"
+      size: 27
+    shop-menu:
+      title: "Pets shop"
+      title-color: "c"
+      size: 27
+    inventory-menu:
+      title: "Pets inventory"
+      title-color: "6"
+      size: 27
+
+
+
+
+
+

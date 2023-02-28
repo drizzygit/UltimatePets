@@ -1,0 +1,45 @@
+# # # # # # # # # # # # # # # # #
+# X---------------------------X #
+# |      *Created-Pets*       | #
+# X---------------------------X #
+# # # # # # # # # # # # # # # # #
+dirt-pet:
+  status: true # SET ENABLE IF YOU WANT DISABLE THIS PET
+  nameColor: "c" # THE NAME COLOR OF THE PET
+  display-name: "TIERRA" # THE DISPLAY NAME OF THE PET
+  prefix: "-> " # THE PREFIX OF THE PET
+  prefix-color: "6" # THE PREFIX COLOR
+  suffix: " <-" # THE SUFFIX OF THE PET
+  suffix-color: "6" # THE SUFFIX COLOR
+stone-pet:
+  status: true
+  nameColor: "8"
+  display-name: "PIEDRA"
+  prefix: "-> "
+  prefix-color: "b"
+  suffix: " <-"
+  suffix-color: "b"
+iron-pet:
+  status: true
+  nameColor: "f"
+  display-name: "HIERRO"
+  prefix: "-> "
+  prefix-color: "c"
+  suffix: " <-"
+  suffix-color: "c"
+gold-pet:
+  status: true
+  nameColor: "e"
+  display-name: "ORO"
+  prefix: "-> "
+  prefix-color: "6"
+  suffix: " <-"
+  suffix-color: "6"
+diamond-pet:
+  status: true
+  nameColor: "b"
+  display-name: "DIAMANTE"
+  prefix: "-> "
+  prefix-color: "1"
+  suffix: " <-"
+  suffix-color: "1"
